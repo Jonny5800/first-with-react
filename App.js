@@ -26,7 +26,6 @@ class App extends Component {
 export default App;
 
 /*
-
 Both of these work...
 document.write("is this working");
 alert("testing");
